@@ -13,22 +13,22 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.main {
+/* .main {
     margin: 2.5rem 10rem;
-}
+} */
 
-.navbar>* {
+/* .navbar>* {
     margin-right: 3rem;
     color: white;
     font-size: 20px;
-}
-
+} */
+/* 
 #logo {
     font-size: 2rem;
     margin-right: 10rem;
-}
+} */
 
-#btn {
+/* #btn {
     padding: 0.4rem 1.25rem;
     color: rgb(93, 92, 126);
     background: white;
@@ -36,23 +36,23 @@ body {
     border-radius: 1.25rem;
     float: right;
     margin-right: 0;
-}
+} */
 
-.hero {
+/* .hero {
     display: flex;
-}
-
+} */
+/* 
 .hero img {
     width: 800px;
     margin-left: -7.5rem;
     margin-right: -20rem;
-}
+} */
 
-.intro {
+/* .intro {
     color: white;
     font-size: 1.5rem;
     max-width: 28rem;
-    margin: 10rem 0 5rem 7rem;
+    margin: 10rem 0 5rem 7rem ;
 }
 
 .intro h1 {
@@ -69,8 +69,8 @@ body {
     padding: 0.75rem 1.5rem;
     border-radius: 1.5rem;
     border: 0;
-}
-
+} */
+/* 
 .container {
     padding: 3rem 6rem;
     background: white;
@@ -80,16 +80,15 @@ body {
     font-size: 1.25rem;
     text-align: center;
     border-radius: 1.5rem;
-    line-height: 1.75rem;
     box-shadow: 1px 1px 4px gray;
 }
 
 .container h1 {
     color: #26659F;
     margin-bottom: 1rem;
-}
+} */
 
-.rect {
+/* .rect {
     display: flex;
     justify-content: space-evenly;
 }
@@ -100,7 +99,7 @@ body {
     width: 12rem;
     height: 6rem;
     border-radius: 1rem;
-}
+} */
 
 .card1 {
     margin-top: 22rem;
